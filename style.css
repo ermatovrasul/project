@@ -1140,7 +1140,7 @@
         top: 20px;
     }
 
-    /* .class1{
+    .class1{
         display: block;
         align-items: flex-start;
         justify-content: flex-start;
@@ -1158,7 +1158,7 @@
         flex-direction: column;
         align-items: flex-end;
         background-color: #292C32;
-    } */
+    }
 }
 
 /* .burger{
