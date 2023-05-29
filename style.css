@@ -1104,10 +1104,12 @@
         position: relative;
         left: 130px;
     }
-    .kitai{
+
+    .kitai {
         position: relative;
         left: 100px;
     }
+
     .city p {
         font-size: 9px;
         position: relative;
@@ -1161,16 +1163,17 @@
     } */
 }
 
-/* .burger{
+.burger {
     display: flex;
     flex-direction: column;
     justify-content: center;
     margin-top: 20px;
 }
-.burger span{
+
+.burger span {
     width: 30px;
     height: 2px;
     background: black;
     display: block;
     margin-bottom: 5px;
-} */
+}
